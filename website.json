@@ -1,0 +1,5 @@
+{
+  "TemplateDir": "template",
+  "DistDir": "dist",
+  "SrcDir": "src"
+}
