@@ -1,0 +1,4 @@
+[submodule "generator"]
+	url = git@github.com:rjenz/StaticSiteGenerator.git
+[submodule "template"]
+	url = git@github.com:rjenz/WebsiteTemplate.git
