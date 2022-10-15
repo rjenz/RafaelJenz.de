@@ -1,0 +1,20 @@
+{
+  "TemplateDir": "template",
+  "DistDir": "dist",
+  "SrcDir": "src",
+  "ScribanTemplate": "template.scriban",
+  "Website": {
+    "Author": "Rafael Laszlo Jenz",
+    "ContactEmail": "kontakt@rafaeljenz.de",
+    "ContactIntro": "Sende mir doch eine Nachricht 👉 ",
+    "Description": "Portfolio von Rafael Laszlo Jenz",
+    "Favicon": "img/favicon.ico",
+    "ImprintLink": "impressum.html",
+    "ImprintText": "Impressum",
+    "Logo": "img/otterspace.svg",
+    "LogoDescription": "Logo: Otter mit Astronautenhelm eingefasst von einem Zahnrad",
+    "ThemeColor": "#25A1D8",
+    "Title": "Rafael Jenz - OtterSpaceDevelopment",
+    "Webmanifest": "img/site.webmanifest"
+  }
+}
