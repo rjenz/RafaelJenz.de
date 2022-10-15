@@ -1,27 +1,3 @@
-## Hi👋
-
-Ich bin ein Softwareentwickler und liebe es, mit alten und neuen Technologien zu arbeiten - von Retro-Spielen auf 8Bit-Computer bis zum State of the Art 3D-Rendering über Full-Stack Web-Applications in Container, DevOps zu Cloud und Infrastructure-as-Code.
-
-***
-
-## Mein Hintergrund
-
-Um auf meinen, mir im Selbststudium angeeigneten Grundlagen aufzubauen, habe ich die zweijährige Berufsschule für Informatik an der [SRH Fachschule](https://www.die-fachschulen.de/de/startseite/) besucht und die Ausbildung im Jahr 2013 als staatlich anerkannter Game- und Multimedia-Entwickler abgeschlossen.
-
-Nach Abschluss der Berufsschule habe ich bei [Inreal Technologies GmbH](https://inreal-tech.com/) angefangen und im Laufe der Jahre die Position des Head of Software Development erreicht. Dabei habe ich Teams in den Bereichen der Architekturvisualisierungen, Web-Entwicklung sowie IT geleitet. Zudem bilde ich mich kontinuierlich in Workshops, Online-Kursen und privaten Projekten über verschiedene Technologien weiter.
-
-***
-
-## Womit ich mich beschäftige
-
-Derzeit arbeite ich als Head of Software Development für [Inreal Technologies GmbH](https://inreal-tech.com/). Zusätzlich zu meiner Tätigkeit als Teamleitung arbeite ich an Werkzeugen für Architekturvisualisierung, Webanwendungen und DevOps für [FlatyFind](https://flatyfind.com/).
-
-In meiner Freizeit arbeite ich an meinem Computerspiel [Uncounted Isles](https://uncountedisles.com) und meinem Pen and Paper Rollenspielsystem.
-
-Für weitere Details werfe doch gerne einen Blick auf meine [Projekte](https://rafaeljenz.de/projekte.html).
-
-***
-
 ## Technologien in meinem Portfolio
 
 Bereits seit 2013 arbeite ich in der Anwendungs-, Web- und Spiele-Entwicklung und habe dabei viele Technologien verwendet um atemberaubende Ergebnisse zu erzielen. Von schnellen Prototypen, um Kunden neue Ideen zu demonstrieren, bis zu mehrjährig geplanten Produkten und Dienstleistungen war alles vertreten.
