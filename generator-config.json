@@ -2,7 +2,9 @@
   "TemplateDir": "template",
   "DistDir": "dist",
   "SrcDir": "src",
+  "PagesDir": "pages",
   "ScribanTemplate": "template.scriban",
+  "WebPQuality": 80,
   "Website": {
     "Author": "Rafael Laszlo Jenz",
     "ContactEmail": "kontakt@rafaeljenz.de",
@@ -16,5 +18,19 @@
     "ThemeColor": "#25A1D8",
     "Title": "Rafael Jenz - OtterSpaceDevelopment",
     "Webmanifest": "img/site.webmanifest"
+  },
+  "Style": {
+    "TextBackground": "#212527",
+    "Background": "#181B1D",
+    "Foreground": "#e8edf3",
+    "Accent": "#086315",
+    "AccentHover": "#1fba38",
+    "Accent2": "#0065d1",
+    "Accent2Hover": "#00c6ff",
+    "FontFamily": "\"Fira Code\", monospace",
+    "FontSize": "0.90em",
+    "SmallSpacing": "16px",
+    "LargeSpacing": "32px",
+    "BorderRadius": "8px"
   }
 }
