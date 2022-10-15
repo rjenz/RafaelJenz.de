@@ -3,10 +3,11 @@
   "DistDir": "dist",
   "SrcDir": "src",
   "PagesDir": "pages",
-  "ScribanTemplate": "template.scriban",
+  "ScribanTemplate": "template.scriban-html",
   "WebPQuality": 80,
   "Website": {
     "Author": "Rafael Laszlo Jenz",
+    "AuthorOccupation": "Software Entwickler & Game Designer",
     "ContactEmail": "kontakt@rafaeljenz.de",
     "ContactIntro": "Sende mir doch eine Nachricht 👉 ",
     "Description": "Portfolio von Rafael Laszlo Jenz",
@@ -32,5 +33,20 @@
     "SmallSpacing": "16px",
     "LargeSpacing": "32px",
     "BorderRadius": "8px"
-  }
+  },
+  "Pages": [
+    {
+      "Text": "Start",
+      "Link": "index.html"
+    },
+    {
+      "Text": "Projekte",
+      "Link": "projekte.html"
+    },
+    {
+      "Text": "Impressum",
+      "Link": "impressum.html",
+      "IsInNav": false
+    }
+  ]
 }
