@@ -6,10 +6,4 @@ Aufbauend auf einer Entity-Component-System Architektur ist diese Engine ein lei
 
 Mehr über Uncounted Isles, das Spiel welches auf der FrostLine Engine aufbaut, findest du auf der [Projekt Webseite](https://uncountedisles.com) oder [Steam](https://store.steampowered.com/app/2012030/Uncounted_Isles/). Veröffentlichung des spieles ist geplant Q2 2023.
 
-:::gallery
-<img alt="FrostLineEngine Logo" src="img/gallery/FrostLine-1.webp?h={auto.hash}" loading="lazy">
-<a href="img/gallery/UncountedIsles-1.webp?h={auto.hash}" onclick="openLightbox(event);"><img alt="Tageslichtszene in FrostLine" src="img/gallery/UncountedIsles-1_thumb.webp?h={auto.hash}" loading="lazy"></a>
-<a href="img/gallery/UncountedIsles-2.webp?h={auto.hash}" onclick="openLightbox(event);"><img alt="Godrays in FrostLine" src="img/gallery/UncountedIsles-2_thumb.webp?h={auto.hash}" loading="lazy"></a>
-<a href="img/gallery/UncountedIsles-3.webp?h={auto.hash}" onclick="openLightbox(event);"><img alt="Shadows und SSAO in FrostLine" src="img/gallery/UncountedIsles-3_thumb.webp?h={auto.hash}" loading="lazy"></a>
-<a href="img/gallery/UncountedIsles-4.webp?h={auto.hash}" onclick="openLightbox(event);"><img alt="Nachtlichtszene in FrostLine" src="img/gallery/UncountedIsles-4_thumb.webp?h={auto.hash}" loading="lazy"></a>
-:::
+<import src="1_frostline_gallery.json"></import>

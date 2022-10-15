@@ -4,6 +4,7 @@
   "SrcDir": "src",
   "PagesDir": "pages",
   "ScribanTemplate": "template.scriban-html",
+  "GalleryScribanTemplate": "gallery.scriban-html",
   "WebPQuality": 80,
   "Website": {
     "Author": "Rafael Laszlo Jenz",
