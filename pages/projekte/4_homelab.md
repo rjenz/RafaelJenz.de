@@ -6,7 +6,4 @@ Zum Zeitpunkt des Schreibens verwende ich einen Server mit [Unraid](https://unra
 
 Für die Entwicklung meiner Privaten Projekte verwende ich meine selbstgebaute Wassergekühlte Workstation.
 
-:::gallery
-<a href="img/gallery/homelab-1.webp?h={auto.hash}" onclick="openLightbox(event);"><img alt="Test des Homelab Servers" src="img/gallery/homelab-1_thumb.webp?h={auto.hash}" loading="lazy"></a>
-<a href="img/gallery/homelab-2.webp?h={auto.hash}" onclick="openLightbox(event);"><img alt="Workstation" src="img/gallery/homelab-2_thumb.webp?h={auto.hash}" loading="lazy"></a>
-:::
+<gallery src="4_homelab_gallery.json"></gallery>

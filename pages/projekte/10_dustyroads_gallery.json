@@ -1,0 +1,29 @@
+{
+    "Items": [
+        {
+            "Image": "img/gallery/DustyRoads-1.png",
+            "LightBox": false,
+            "Alt": "DustyRoads Logo im Style des Route 66 Shields"
+        },
+        {
+            "Image": "img/gallery/DustyRoads-2.png",
+            "LightBox": true,
+            "Alt": "Szene eines eingestürzten Apartmentgebäudes"
+        },
+        {
+            "Image": "img/gallery/DustyRoads-3.png",
+            "LightBox": true,
+            "Alt": "Szene einer überwucherten Brücke mit einer Stadt im Hintergrund"
+        },
+        {
+            "Image": "img/gallery/DustyRoads-4.png",
+            "LightBox": true,
+            "Alt": "Szene eines alten Schwimmbades"
+        },
+        {
+            "Image": "img/gallery/DustyRoads-5.png",
+            "LightBox": true,
+            "Alt": "Überblick über einen Flughafens"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Items": [
+        {
+            "Image": "img/gallery/homelab-1.png",
+            "LightBox": true,
+            "Alt": "Test des Homelab Servers"
+        },
+        {
+            "Image": "img/gallery/homelab-2.png",
+            "LightBox": true,
+            "Alt": "Workstation"
+        }
+    ]
+}

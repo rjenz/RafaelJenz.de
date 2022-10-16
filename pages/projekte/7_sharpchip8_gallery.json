@@ -1,0 +1,19 @@
+{
+    "Items": [
+        {
+            "Image": "img/gallery/CHIP-8-1.png",
+            "LightBox": false,
+            "Alt": "Sharp Chip 8 Logo"
+        },
+        {
+            "Image": "img/gallery/CHIP-8-2.png",
+            "LightBox": true,
+            "Alt": "Ein Chip-8 breakout clone"
+        },
+        {
+            "Image": "img/gallery/CHIP-8-3.png",
+            "LightBox": true,
+            "Alt": "Ein Chip-8 snake clone"
+        }
+    ]
+}

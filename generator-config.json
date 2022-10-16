@@ -5,6 +5,7 @@
   "PagesDir": "pages",
   "ScribanTemplate": "template.scriban-html",
   "GalleryScribanTemplate": "gallery.scriban-html",
+  "AreaHTMLTag": "article",
   "WebPQuality": 80,
   "Website": {
     "Author": "Rafael Laszlo Jenz",

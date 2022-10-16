@@ -1,0 +1,24 @@
+{
+    "Items": [
+        {
+            "Image": "img/gallery/RayCaster-1.png",
+            "LightBox": true,
+            "Alt": "Raycaster, Bäume und NPCs"
+        },
+        {
+            "Image": "img/gallery/RayCaster-2.png",
+            "LightBox": true,
+            "Alt": "Raycaster, Ansicht von drinnen nach draußen"
+        },
+        {
+            "Image": "img/gallery/RayCaster-3.png",
+            "LightBox": true,
+            "Alt": "Raycaster, einen Feuerball werfen"
+        },
+        {
+            "Image": "img/gallery/RayCaster-4.png",
+            "LightBox": true,
+            "Alt": "Raycaster, Menü und Charactersheet"
+        }
+    ]
+}

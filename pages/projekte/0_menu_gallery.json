@@ -1,0 +1,74 @@
+{
+    "Items": [
+        {
+            "Image": "img/projects/frostline.webp",
+            "LightBox": false,
+            "Alt": "Gameplay Screenshot VoxelEngine",
+            "Link": "#frostline-engine-und-uncounted-isles",
+            "Caption": "FrostLine Engine und Uncounted Isles"
+        },
+        {
+            "Image": "img/projects/longdays.webp",
+            "LightBox": false,
+            "Alt": "Foto von LongDays Regelwerk Bücher",
+            "Link": "#longdays-rollenspielsystem",
+            "Caption": "LongDays Rollenspielsystem"
+        },
+        {
+            "Image": "img/projects/pw.webp",
+            "LightBox": false,
+            "Alt": "Password Feld",
+            "Link": "#password-manager",
+            "Caption": "Password Manager"
+        },
+        {
+            "Image": "img/projects/homelab.webp",
+            "LightBox": false,
+            "Alt": "Wassergekühlter Computer",
+            "Link": "#homelab-und-workstation",
+            "Caption": "HomeLab und Workstation"
+        },
+        {
+            "Image": "img/projects/portfolio.webp",
+            "LightBox": false,
+            "Alt": "Header der Website",
+            "Link": "#portfolio",
+            "Caption": "Portfolio"
+        },
+        {
+            "Image": "img/projects/raycaster.webp",
+            "LightBox": false,
+            "Alt": "Gameplay Screenshot Raycaster",
+            "Link": "#raycaster",
+            "Caption": "Raycaster"
+        },
+        {
+            "Image": "img/projects/chip8.webp",
+            "LightBox": false,
+            "Alt": "Chip8 Player",
+            "Link": "#sharpchip8",
+            "Caption": "SharpChip8"
+        },
+        {
+            "Image": "img/projects/toh.webp",
+            "LightBox": false,
+            "Alt": "Gameplay Screenshot Unreal Engine",
+            "Link": "#tombs-of-horror",
+            "Caption": "Tombs of Horror"
+        },
+        {
+            "Image": "img/projects/s3dr.webp",
+            "LightBox": false,
+            "Alt": "Screenshot 3D Triangle auf dem GBA",
+            "Link": "#software-3d-rendering-auf-dem-gba",
+            "Caption": "Software 3D-Rendering auf dem GBA"
+        },
+        {
+            "Image": "img/projects/dustyroads.webp",
+            "LightBox": false,
+            "Alt": "Screenshot aus Minecraft",
+            "Link": "#dustyroads-minecraft-server",
+            "Caption": "DustyRoads Minecraft Server"
+        }
+    ]
+}

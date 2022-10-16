@@ -1,0 +1,29 @@
+{
+    "Items": [
+        {
+            "Image": "img/gallery/LongDays-1.png",
+            "LightBox": false,
+            "Alt": "LongDays Logo (Text)"
+        },
+        {
+            "Image": "img/gallery/LongDays-2.png",
+            "LightBox": true,
+            "Alt": "LongDays Maskottchen Larry und Ana cosplay als Drache und Zauberer"
+        },
+        {
+            "Image": "img/gallery/LongDays-3.png",
+            "LightBox": true,
+            "Alt": "LongDays Regelwerk Buchcover in Affinity Publisher"
+        },
+        {
+            "Image": "img/gallery/LongDays-4.png",
+            "LightBox": true,
+            "Alt": "LongDays Regelwerk Seite 'Dice' in Affinity Publisher"
+        },
+        {
+            "Image": "img/gallery/LongDays-5.png",
+            "LightBox": true,
+            "Alt": "LongDays Regelwerk gedruckte Exemplare"
+        }
+    ]
+}

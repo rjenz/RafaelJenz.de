@@ -1,0 +1,19 @@
+{
+    "Items": [
+        {
+            "Image": "img/gallery/TOH-1.png",
+            "LightBox": true,
+            "Alt": "Hauptmenü von Tombs of Horror"
+        },
+        {
+            "Image": "img/gallery/TOH-2.png",
+            "LightBox": true,
+            "Alt": "Einstellungen von Tombs of Horror"
+        },
+        {
+            "Image": "img/gallery/TOH-3.png",
+            "LightBox": true,
+            "Alt": "Kartentisch in Tombs of Horror"
+        }
+    ]
+}
