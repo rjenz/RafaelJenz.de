@@ -1,0 +1,46 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+    
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+      
+      - uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: 6.0.x
+
+      - name: Restore dependencies of Generator
+        run: dotnet restore ./generator/src/StaticSiteGenerator.sln
+
+      - name: Build Generator
+        run: dotnet build ./generator/src/StaticSiteGenerator.sln --no-restore
+
+      - name: Run Generator
+        run: dotnet Generator.dll ${GITHUB_WORKSPACE}
+        working-directory: ./generator/src/Generator/bin/Debug/net6.0
+
+      - uses: aws-actions/setup-sam@v2
+      
+      - uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_KEY }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET }}
+          aws-region: eu-central-1
+      
+      - name: Upload files to aws s3
+        run: |
+          aws s3 sync ./dist s3://${{ secrets.AWS_S3_BUCKET }} --acl public-read --delete
+          
+      - name: Create cloudfront invalidation
+        run: |
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CF_DISTRIBUTION }} --paths '/*'
