@@ -6,7 +6,8 @@
   "ScribanTemplate": "template.scriban-html",
   "GalleryScribanTemplate": "gallery.scriban-html",
   "AreaHTMLTag": "article",
-  "WebPQuality": 80,
+  "WebPQuality": 99,
+  "WebPQualityThumbnails": 90,
   "Website": {
     "Author": "Rafael Laszlo Jenz",
     "AuthorOccupation": "Software Entwickler & Game Designer",
