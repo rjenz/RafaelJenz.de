@@ -13,7 +13,7 @@
   "WebPQualityThumbnails": 90,
   "Website": {
     "Author": "Rafael Laszlo Jenz",
-    "AuthorOccupation": "Software Entwickler & Game Designer",
+    "AuthorOccupation": "Software & Indie-Spiele Entwickler",
     "ContactEmail": "kontakt@rafaeljenz.de",
     "ContactIntro": "Sende mir doch eine Nachricht 👉 ",
     "Description": "Portfolio von Rafael Laszlo Jenz",
@@ -56,6 +56,20 @@
       "Text": "Impressum",
       "Link": "impressum.html",
       "IsInNav": false
+    }
+  ],
+  "Socials": [
+    {
+      "Name": "Twitter",
+      "Link": "https://twitter.com/OtterSpaceDev",
+      "Logo": "img/twitter.webp",
+      "LogoSize": 20
+    },
+    {
+      "Name": "Github",
+      "Link": "https://github.com/rjenz",
+      "Logo": "img/github.webp",
+      "LogoSize": 20
     }
   ]
 }
