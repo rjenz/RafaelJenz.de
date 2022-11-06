@@ -66,6 +66,12 @@
       "LogoSize": 20
     },
     {
+      "Name": "Masterdon",
+      "Link": "https://mastodon.gamedev.place/@OtterSpaceDev",
+      "Logo": "img/mastodon.webp",
+      "LogoSize": 20
+    },
+    {
       "Name": "Github",
       "Link": "https://github.com/rjenz",
       "Logo": "img/github.webp",
