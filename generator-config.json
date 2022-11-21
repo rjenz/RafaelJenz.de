@@ -19,7 +19,7 @@
     "Description": "Portfolio von Rafael Laszlo Jenz",
     "Favicon": "browser/favicon.ico",
     "ImprintLink": "impressum.html",
-    "ImprintText": "Impressum",
+    "ImprintText": "Impressum / Datenschutz",
     "Logo": "img/otterspace.svg",
     "LogoDescription": "Logo: Otter mit Astronautenhelm eingefasst von einem Zahnrad",
     "LogoWidth": 2026,
@@ -60,6 +60,18 @@
   ],
   "Socials": [
     {
+      "Name": "Github",
+      "Link": "https://github.com/rjenz",
+      "Logo": "img/github.webp",
+      "LogoSize": 20
+    },
+    {
+      "Name": "Steam",
+      "Link": "https://store.steampowered.com/app/2012030/Uncounted_Isles/",
+      "Logo": "img/steam.webp",
+      "LogoSize": 20
+    },
+    {
       "Name": "Twitter",
       "Link": "https://twitter.com/OtterSpaceDev",
       "Logo": "img/twitter.webp",
@@ -72,9 +84,9 @@
       "LogoSize": 20
     },
     {
-      "Name": "Github",
-      "Link": "https://github.com/rjenz",
-      "Logo": "img/github.webp",
+      "Name": "Youtube",
+      "Link": "https://www.youtube.com/@OtterSpaceDev",
+      "Logo": "img/youtube.webp",
       "LogoSize": 20
     }
   ]

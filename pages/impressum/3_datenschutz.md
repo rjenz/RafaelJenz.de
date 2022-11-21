@@ -61,6 +61,10 @@ Die Bereitstellung der vorgenannten personenbezogenen Daten ist weder gesetzlich
 
 Um die Sicherheit Ihrer Daten bei der Übertragung zu schützen, verwenden wir dem aktuellen Stand der Technik entsprechende Verschlüsselungsverfahren (z. B. SSL) über HTTPS.
 
+### Steam Widget
+
+Wir verwenden auf unseren Webseiten auf Grundlage unserer berechtigten Interessen (Art. 6 Abs. 1 S. 1lit. f) DSGVO) das Steam Embed Widget via iFrame Einbettung. Steam ist ein von Valve Corporation betriebener Online Marktplatz für Computerspiele. Steam verwendet Cookies für das Embed Widget, die Datenschutzbestimmungen dieser Plattform finden Sie hir: [Steam Datenschutzrichtlinien](https://store.steampowered.com/privacy_agreement/german/)
+
 ### Information über Ihr Widerspruchsrecht nach Art. 21 DSGVO
 
 #### Einzelfallbezogenes Widerspruchsrecht
@@ -79,10 +83,6 @@ Karlsdorf-Neuthard 76689<br>
 ### Änderung unserer Datenschutzbestimmungen
 
 Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z.B. bei der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.
-
-### Steam Widget
-
-Wir verwenden das Steam Embed Widget via iFrame Einbettung. Steam ist ein von Valve Corporation betriebener Online Marktplatz für Computerspiele. Die Datenschutzbestimmungen dieser Plattform finden Sie hir: [Steam Datenschutzrichtlinien](https://store.steampowered.com/privacy_agreement/german/)
 
 ### Fragen an den Datenschutzbeauftragten
 
