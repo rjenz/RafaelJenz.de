@@ -8,22 +8,22 @@
         {
             "Image": "img/gallery/UncountedIsles-1.png",
             "LightBox": true,
-            "Alt": "Tageslichtszene in FrostLine"
+            "Alt": "Tageslichtszene Kampfsystem Nicht Spieler Charactere"
         },
         {
             "Image": "img/gallery/UncountedIsles-2.png",
             "LightBox": true,
-            "Alt": "Godrays in FrostLine"
+            "Alt": "Nachtlichtszene Gegenstände und Partikelsystem"
         },
         {
             "Image": "img/gallery/UncountedIsles-3.png",
             "LightBox": true,
-            "Alt": "Shadows und SSAO in FrostLine"
+            "Alt": "Nachtlichtszene Atmosphere"
         },
         {
             "Image": "img/gallery/UncountedIsles-4.png",
             "LightBox": true,
-            "Alt": "Nachtlichtszene in FrostLine"
+            "Alt": "Tageslichtszene Insel und Wasser"
         }
     ]
 }
